@@ -67,4 +67,6 @@ Ensure you have Python installed on your machine. You can download it from [pyth
 ### Requirements
 
 Ensure the following libraries are included in your `requirements.txt` file:
+* PyQt6
+* pygame
 
